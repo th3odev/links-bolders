@@ -91,7 +91,7 @@ className="flex items-center gap-5 bg-white/10 backdrop-blur-lg rounded-3xl px-6
 
 <HiOutlineMail/>
 
-bold.sac@gmail.com
+administrativo@bolders.com.br
 
 </div>
 
